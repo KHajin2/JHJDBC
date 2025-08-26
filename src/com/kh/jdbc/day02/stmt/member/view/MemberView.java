@@ -149,7 +149,7 @@ public class MemberView {
 	// 메뉴 출력
 	private int printMenu() {
 		Scanner sc = new Scanner(System.in);
-		System.out.println("====== 회원 관리 프로그램 ======");
+		System.out.println("====== 회원 관리 프로그램 (day02, stmt) ======");
 		System.out.println("1. 회원가입");
 		System.out.println("2. 회원 전체 조회");
 		System.out.println("3. 회원 검색(아이디)");
